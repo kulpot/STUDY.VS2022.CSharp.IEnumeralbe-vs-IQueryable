@@ -12,6 +12,10 @@ class MainClass
         IEnumerable<int> result =
             //ints.Where(i => i < 5);
             Enumerable.Where(ints, i => i < 5);
+        //Queryable.Where()????
+        IEnumerable<int> result2 =
+            Queryable.Where(ints, i => i < 5);
+
 
         foreach (int i in result)
             Console.WriteLine(i);
