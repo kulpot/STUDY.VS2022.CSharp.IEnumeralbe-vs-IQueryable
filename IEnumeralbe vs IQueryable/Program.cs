@@ -2,7 +2,7 @@
 using System.Linq;
 
 //ref link:https://www.youtube.com/watch?v=7ssbfLdQGyg&list=PLRwVmtr-pp06SlwcsqhreZ2byuozdnPlg&index=8
-//
+// ..
 
 class MainClass
 {
